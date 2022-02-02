@@ -1,4 +1,6 @@
-// Function to create the menu when opening the SpreadSheet thanks @https://jeffreyeverhart.com/
+// Code to replace Docs with Data from Sheets -- thanks @https://jeffreyeverhart.com/ // 
+
+// Function to create the menu when opening the SpreadSheet 
 function onOpen() {
   const ui = SpreadsheetApp.getUi();
   // Defining first Menu and Item inside the Menu
